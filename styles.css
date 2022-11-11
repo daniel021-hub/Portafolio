@@ -29,9 +29,11 @@ html{
 }
 .mobile_profile{
     display: block;
+    border-radius: 50%;
 }
 .desktop_profile{
     display: none;
+    border-radius: 50%;
 }
 .container{
     max-width: 1200px;
